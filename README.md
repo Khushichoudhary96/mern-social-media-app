@@ -1,4 +1,4 @@
-# MERN Stack - Build a social media app 
+
 # MERN Social Media App
 
 A full-stack social media web application built using the MERN stack (MongoDB, Express.js, React.js, and Node.js).  
