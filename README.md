@@ -1,27 +1,46 @@
 # MERN Stack - Build a social media app 
-> MERN Stack Build  a social media app (instagram , facebook, twitter clone) with MERN  + Redux  + Bootstrap 4
+# MERN Social Media App
 
-## Author: Dev A.T Viet Nam
+A full-stack social media web application built using the MERN stack (MongoDB, Express.js, React.js, and Node.js).  
+This platform allows users to connect, share posts, like, comment, and interact in real time.
 
-## Youtube tutorials: https://www.youtube.com/watch?v=DLtVKgkCKx8&list=PLs4co9a6NhMyAfSnDg1MKGwLdLx0OA07d
+---
 
-## Install dependencies for server 
-### `npm install`
+## Features
 
-## Install dependencies for client
-### cd client ---> `npm install`
+- User Authentication (Login & Signup)
+- Create, Edit & Delete Posts
+- Like and Comment on Posts
+- User Profile Management
+- Real-time Chat / Socket Integration
+- Responsive UI
+- Secure Backend APIs
+- JWT Authentication
+- MongoDB Database Integration
 
-## Connect to your mongodb and add info in .env
+---
 
-## Run the client & server with concurrently
-### `npm run dev`
+## Tech Stack
 
-## Run the Express server only
-### `npm run server`
+### Frontend
+- React.js
+- Redux / Context API
+- Axios
+- CSS / Tailwind / Bootstrap
 
-## Run the React client only
-### `npm run client`
+### Backend
+- Node.js
+- Express.js
+- MongoDB
+- Mongoose
+- JWT Authentication
+- Socket.io
 
-### Server runs on http://localhost:5000 and client on http://localhost:3000
+---
 
+## Installation
 
+### Clone Repository
+
+```bash
+git clone https://github.com/Khushichoudhary96/mern-social-media-app.git
